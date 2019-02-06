@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1489467129 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\lab 3\main.cpp
+	<iostream>
+	"SortAlgs.h"
+
+1489466520 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\lab 3\sortalgs.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+
+1489468479 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 3\main.cpp
+	<iostream>
+	"SortAlgs.h"
+
+1489468246 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 3\sortalgs.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+

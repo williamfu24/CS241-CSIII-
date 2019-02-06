@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1485481481 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\blackjackplayer.cpp
+
+1485468975 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\card.cpp
+	<iostream>
+	"Card.h"
+
+1485469174 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\card.h
+	<iostream>
+
+1485484911 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\dealer.cpp
+	<iostream>
+	"Dealer.h"
+
+1485483357 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\dealer.h
+	<iostream>
+	"Player.h"
+
+1485483357 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\player.h
+	<iostream>
+	<string>
+	"Deck.h"
+
+1485483357 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\deck.h
+	<iostream>
+	<vector>
+	"Hand.h"
+
+1485483357 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\hand.h
+	<iostream>
+	"Card.h"
+	<vector>
+
+1485483058 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\deck.cpp
+	<iostream>
+	"Deck.h"
+	<vector>
+	<algorithm>
+
+1485483058 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\hand.cpp
+	<iostream>
+	"Hand.h"
+	<vector>
+
+1485487155 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\main.cpp
+	<iostream>
+	"Card.h"
+	"Hand.h"
+	"Deck.h"
+	"Player.h"
+	"BlackJackPlayer.h"
+	"Player.h"
+	"Dealer.h"
+	<algorithm>
+	<time.h>
+
+1485483357 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\blackjackplayer.h
+	"Player.h"
+
+1485483058 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 1\fu-blackjack\player.cpp
+	"player.h"
+	<stdlib.h>
+	<string>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1487101760 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 2.1\linklist\main.cpp
+	<iostream>
+	"slist.h"
+	"node.h"
+
+1487101057 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 2.1\linklist\slist.h
+	<iostream>
+	<string.h>
+	"node.h"
+
+1487045526 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 2.1\linklist\node.h
+	<iostream>
+
+1487045526 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 2.1\linklist\node.cpp
+	"node.h"
+
+1487101512 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 2.1\linklist\slist.cpp
+	<iostream>
+	"slist.h"
+
