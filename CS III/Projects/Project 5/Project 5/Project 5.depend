@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493088727 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 5\project 5\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	"BST.h"
+
+1493088675 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 5\project 5\bst.cpp
+	"BST.h"
+	<string.h>
+	<iostream>
+	<iomanip>
+
+1493089383 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 5\project 5\bst.h
+	<iostream>
+	<iomanip>
+	<string.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1493614421 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 6\project 6\graph.cpp
+	"graph.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<stdlib.h>
+
+1493610611 c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 6\project 6\graph.h
+	<iostream>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1493526253 source:c:\users\william\desktop\college\year 2\semester 2\cs iii\projects\project 6\project 6\main.cpp
+	<iostream>
+	"graph.h"
+	<stdio.h>
+	<fstream>
+	<cstdio>
+	<ctime>
+
